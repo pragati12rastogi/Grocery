@@ -1,0 +1,2 @@
+Product Name,Category,Sub Category,Quantity,Price,Total Buying Price,Profit Type(Percent/Fixed),Profit Value,Selling Price With Profit,Total Amount With Profit,Unit,Changable,"Status(1:stock available, 0: out of stock)",product Discription
+Mushroom,Vegetables,Vegetables,10,40,400,Fixed,5,45,450,Kg,0,1,Testing

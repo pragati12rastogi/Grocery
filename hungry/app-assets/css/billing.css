@@ -1,0 +1,136 @@
+#table_data{
+	background: #f96c42;
+    color: #fff;
+    font-size: .9rem;
+    padding: 0px;
+    margin: 0px;
+    width:100% !important;
+}
+
+#card-title{
+
+    padding: 12px;
+    background: #fea500;
+    text-align: center;
+    font-weight: 700;
+}
+
+.right-card{
+	margin-top: 15%;
+}
+.customer-note{
+	resize: none;
+}
+
+.butonSection{
+	margin-top: 10%;
+}
+.comon-btn{
+	top: 50%;
+    left: 50%;
+    position: relative;
+    transform: translate(-50%, -50%);
+    width:150px;
+}
+
+@media(max-width: 1300px){
+	#table_data{
+	background: #f96c42;
+    color: #fff;
+    font-size: .9rem;
+    padding: 0px;
+    margin: 0px;
+    width:100% !important;
+}
+}
+
+.card_body_content{
+	text-align: center;
+	font-size: 1rem;
+	font-weight: 500;
+
+}
+
+.card h2{
+	text-align: center;	
+	font-weight: 600;
+	
+}
+
+.dataTables_filter label{
+	display:block;
+}
+
+.dataTables_length label{
+	display:block;
+}
+
+.dataTables_info{
+	display:block;
+}
+
+.dataTables_paginate{
+	display: block;
+}
+
+.barcode_inp{
+	padding: 10px;
+    margin-left: 20px;
+    width: 35%;
+}
+
+.barcode_inp1{
+	padding: 10px;   
+    width: 35%;
+}
+
+#search_icon{
+	padding: 10px;
+	margin-left: 20px;
+}
+
+.dataTables_empty{
+	display: none;
+}
+
+.cusmoter_search{
+	background-color: #f96c42;
+    border-color: #f96c42;
+    padding: 10px;
+    margin-left: 20px;
+}
+
+.customer_details{
+    /*background-color: beige;
+    border: 1px solid red;*/
+    padding: 10px;
+    width: 33%;
+    margin-left: 10%;
+    margin-top: 5px;
+    position: absolute;
+    z-index: 9999;
+    background: #FFF;
+}
+
+.SpecificcustomerName{
+      cursor: pointer;
+      padding: 2px;
+      font-weight: 600;
+      color: #000;
+    }
+
+.SpecificcustomerName:hover{
+    cursor: pointer;
+    padding: 2px;
+    background: #f96c42;
+    color: #FFF;
+}
+
+.Show_yes_no{
+    margin-top: 20px;
+    display: none;
+}
+
+.modal-backdrop{
+        opacity: 0!important;
+}
